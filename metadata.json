@@ -1,0 +1,6 @@
+{
+  "name": "طبيبي لمتابعة الحمل | Dr. Nabda Pregnancy Tracker",
+  "description": "تطبيق طبي متكامل لمتابعة الحمل أسبوعاً بأسبوع كأنكِ مع استشاري نساء وتوليد: حساب موعد الولادة، عيادة واستشارات طبية ذكية، فك رموز السونار والتحاليل، عداد الركلات ومؤقت الطلق.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
